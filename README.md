@@ -6,6 +6,7 @@ The **Hospital Management System** is a desktop application designed to streamli
 
 - **Appointment Scheduling**
 - **Payment Processing**
+- **User Handling**
 
 This application is specifically tailored for use by receptionists.
 
@@ -43,16 +44,12 @@ This system addresses significant challenges in managing appointments and paymen
 1. Download the JDK 21 version release from the [Oracle.com]([link-to-releases](https://www.oracle.com/in/java/technologies/downloads/)).
 2. Extract the files to your desired location.
 3. Ensure you have the required dependencies installed.
+   --itextpdf-5.5.4
+   --jcalendar-1.4
+   --jcommon-1.0.24
+   --jfreechart-1.5.3
+   --mysql-connector-j-9.0.0
 4. Run the application by executing `login.java` .
-
----
-
-## 🛠️ Usage
-
-- Launch the application.
-- Log in with your receptionist credentials.
-- Navigate to the **Appointment Management** section to schedule, view, or cancel appointments.
-- Access the **Payment Processing** module to handle payments securely.
 
 ---
 
